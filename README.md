@@ -1,10 +1,12 @@
 [//]: <> (https://github.com/PuneetSivananda/nlp-text-classification.git)
 
+[api_code](https://github.com/datastaxdevs/workshop-ai-as-api)
+
 ### Components
 - FastAPI
 - Apache Cassandra
 - Datastax AstraDb
-- Tensorflow
+- Keras/Tensorflow
 - Caching
 
 ## Description
